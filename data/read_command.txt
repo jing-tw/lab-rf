@@ -1,0 +1,1 @@
+uhd_rx_cfile -f 2.4G -r 28M --channels=0,1 rx_data_dual.dat
